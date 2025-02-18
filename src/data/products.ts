@@ -20,9 +20,9 @@ export const products: Product[] = [
     description: "Advanced PTFE coating solution providing excellent non-stick and low friction properties, ideal for industrial applications requiring superior wear resistance and chemical protection. Our Xylan PTFE coating offers unmatched durability and performance in demanding environments.",
     shortDescription: "High-performance PTFE coating for industrial applications",
     images: [
-      "/xylan-ptfe-1.jpg",
-      "/xylan-ptfe-2.jpg",
-      "/xylan-ptfe-3.jpg"
+      "/images/xylan-ptfe-1.jpg",
+      "/images/xylan-ptfe-2.jpg",
+      "/images/xylan-ptfe-3.jpg"
     ],
     features: [
       "Superior non-stick properties",
@@ -60,9 +60,9 @@ export const products: Product[] = [
     description: "Premium ECTFE fluoropolymer coating offering exceptional chemical resistance and durability, perfect for harsh environment applications requiring superior protection. Halar coating provides outstanding barrier properties and long-term performance.",
     shortDescription: "High-performance fluoropolymer coating for extreme conditions",
     images: [
-      "/halar-1.jpg",
-      "/halar-2.jpg",
-      "/halar-3.jpg"
+      "/images/halar-1.jpg",
+      "/images/halar-2.jpg",
+      "/images/halar-3.jpg"
     ],
     features: [
       "Exceptional chemical resistance",
@@ -100,9 +100,9 @@ export const products: Product[] = [
     description: "Advanced fluoropolymer coating system designed for maximum protection and longevity in demanding industrial environments. Our comprehensive range includes various fluoropolymer formulations tailored to specific application requirements.",
     shortDescription: "Advanced protective coating for industrial use",
     images: [
-      "/fluoropolymer-1.jpg",
-      "/fluoropolymer-2.jpg",
-      "/fluoropolymer-3.jpg"
+      "/images/fluoropolymer-1.jpg",
+      "/images/fluoropolymer-2.jpg",
+      "/images/fluoropolymer-3.jpg"
     ],
     features: [
       "High chemical resistance",
@@ -140,9 +140,9 @@ export const products: Product[] = [
     description: "High-performance fusion bonded epoxy coating providing exceptional corrosion protection and chemical resistance for metal substrates. Ideal for pipelines, rebar, and industrial applications requiring superior protection.",
     shortDescription: "Superior corrosion protection coating",
     images: [
-      "/filter-1.jpg",
-      "/filter-2.jpg",
-      "/filter-3.jpg"
+      "/images/filter-1.jpg",
+      "/images/filter-2.jpg",
+      "/images/filter-3.jpg"
     ],
     features: [
       "Excellent corrosion resistance",
@@ -180,9 +180,9 @@ export const products: Product[] = [
     description: "High-quality porous plastic filter sheets designed for optimal filtration efficiency and durability. Our filter sheets offer consistent performance and reliability in various industrial applications.",
     shortDescription: "Advanced filtration solutions for industry",
     images: [
-      "/filter-1.jpg",
-      "/filter-2.jpg",
-      "/filter-3.jpg"
+      "/images/filter-1.jpg",
+      "/images/filter-2.jpg",
+      "/images/filter-3.jpg"
     ],
     features: [
       "High filtration efficiency",
@@ -220,9 +220,9 @@ export const products: Product[] = [
     description: "Innovative porous plastic products engineered for specific filtration and separation needs. Our products combine advanced materials with precise manufacturing to deliver optimal performance.",
     shortDescription: "Specialized porous plastic solutions",
     images: [
-      "/filter-1.jpg",
-      "/filter-2.jpg",
-      "/filter-3.jpg"
+      "/images/filter-1.jpg",
+      "/images/filter-2.jpg",
+      "/images/filter-3.jpg"
     ],
     features: [
       "Custom shapes and sizes",
@@ -260,9 +260,9 @@ export const products: Product[] = [
     description: "Specialized medical-grade coatings designed for healthcare and medical device applications. Our coatings meet strict regulatory requirements while providing excellent performance and biocompatibility.",
     shortDescription: "Biocompatible coatings for medical applications",
     images: [
-      "/filter-1.jpg",
-      "/filter-2.jpg",
-      "/filter-3.jpg"
+      "/images/filter-1.jpg",
+      "/images/filter-2.jpg",
+      "/images/filter-3.jpg"
     ],
     features: [
       "Biocompatible",
@@ -300,9 +300,9 @@ export const products: Product[] = [
     description: "FDA-compliant food grade coatings specifically formulated for food processing and handling equipment. Our coatings ensure safe food contact while providing excellent release properties and durability.",
     shortDescription: "Safe and durable coatings for food industry",
     images: [
-      "/filter-1.jpg",
-      "/filter-2.jpg",
-      "/filter-3.jpg"
+      "/images/filter-1.jpg",
+      "/images/filter-2.jpg",
+      "/images/filter-3.jpg"
     ],
     features: [
       "FDA compliant",

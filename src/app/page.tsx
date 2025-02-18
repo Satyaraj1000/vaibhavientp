@@ -1,9 +1,8 @@
-'use client';
+"use client";
 
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/autoplay";
 import { Autoplay } from "swiper/modules";
 import ProductCard from "@/components/ProductCard";
 import { products } from "../data/products";
@@ -56,15 +55,20 @@ export default function Home() {
             <h1 className="text-2xl md:text-3xl lg:text-6xl font-bold mb-4 md:mb-8 bg-gradient-to-b from-[#0E9696] to-[#043030] bg-clip-text text-transparent">
               Welcome to Protective Coating World
             </h1>
-            <p className="text-base md:text-lg text-gray-700 max-w-4xl mx-auto">
-              M/s. VAIBHAVI ENTERPRISES is a fast-growing company with a strong
-              focus on quality & best customer service. Since 1989, our
-              organization has been acknowledged as a leader in development &
-              advancement of surface enhancement 'Viflon' (Fluoropolymer) coating
-              for metal surfaces & other substrates. We are also a manufacturer of
-              'Vaicon' Porus Plastics filter media especially for pharmaceutical,
-              Chemical & Pneumatics companies for their different applications.
-            </p>
+            <div className="text-base md:text-lg text-gray-700 max-w-4xl mx-auto">
+              <p>
+                M/s. VAIBHAVI ENTERPRISES is a fast-growing company with a strong
+                focus on quality & best customer service. Since 1989, our
+                organization has been acknowledged as a leader in development &
+                advancement of surface enhancement <strong>'Viflon'</strong> (Fluoropolymer) coating
+                for metal surfaces & other substrates.
+              </p>
+              <p>
+                We are also a manufacturer of <strong>'Vaicon'</strong> Porus Plastics filter media
+                especially for pharmaceutical, Chemical & Pneumatics companies for
+                their different applications.
+              </p>
+            </div>
           </div>
 
           {/* Section Divider */}
